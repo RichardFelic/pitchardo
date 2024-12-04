@@ -1,5 +1,7 @@
 # Pitchardo AI - Your Assistant for Conecta Alura
 
+![image](https://github.com/user-attachments/assets/500e4eac-1fea-4253-b163-cdd96bf2653a)
+
 ## 🎯 Purpose
 
 Pitchardo AI is an interactive web application specifically designed to showcase my professional profile on Conecta Alura, the networking platform connecting companies and talents from Oracle Next Education (ONE). Through a unique conversational experience, companies can dynamically and interactively explore my skills, experience, and career goals.
